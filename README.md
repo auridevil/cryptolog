@@ -15,7 +15,8 @@ Invoke (POST) it with any type of json body.
     wt create decrypt.js --secret CRYPTO_PWD=<password>
     
 Invoke (POST) it with body:
-    {cypher : <text_to_decrypt>}
+
+    {cypher : [text_to_decrypt]}
   
 Et Voilà. Done!
 
