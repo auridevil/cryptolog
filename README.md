@@ -1,5 +1,5 @@
 # cryptolog
-Webtask for saving encrypted log (with IFTTT) to a gdrive spreasheet
+Simple Webtask for saving encrypted log (with IFTTT) to a gdrive spreasheet. 
 
 #Create crypto webtask:
  
@@ -22,3 +22,4 @@ Et Voilà. Done!
 
 Powered by WebTask!
   https://webtask.io/
+
